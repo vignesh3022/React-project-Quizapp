@@ -19,7 +19,7 @@ Welcome to the Quiz App, a fun and interactive platform designed to test your kn
 ## Getting Started
 
 ### Access the Quiz App
-Visit the [Quiz App](https://react-project-quizapp.vercel.app/) to start exploring and answering quizzes right away.
+Visit the [Quiz App](https://our-quizapp.vercel.app/) to start exploring and answering quizzes right away.
 
 ### Quiz Sessions
 - Select the number of questions you want to answer in each quiz session.
@@ -32,8 +32,3 @@ Visit the [Quiz App](https://react-project-quizapp.vercel.app/) to start explori
 ### Challenge Yourself
 - Explore various quiz categories to expand your knowledge and discover new interests.
 - Share your quiz results with friends and challenge them to beat your score.
-
-## Contributions
-
-Contributions to the Quiz App are welcome! If you have ideas for new quiz categories, feature enhancements, or bug fixes, feel free to contribute to the project. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to get involved.
-
